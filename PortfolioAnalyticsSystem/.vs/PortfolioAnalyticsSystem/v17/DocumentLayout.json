@@ -1,12 +1,258 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\erica\\OneDrive\\\u00C1rea de Trabalho\\Teste Tecnico\\Teste-Tecnico-Portfolio-Analytics-System\\PortfolioAnalyticsSystem\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45D49AA3-1703-4CF4-834D-53A1FA7DF773}|PortfolioAnalyticsSystem.Tests\\PortfolioAnalyticsSystem.Tests.csproj|c:\\users\\erica\\onedrive\\\u00E1rea de trabalho\\teste tecnico\\teste-tecnico-portfolio-analytics-system\\portfolioanalyticssystem\\portfolioanalyticssystem.tests\\analyticstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D49AA3-1703-4CF4-834D-53A1FA7DF773}|PortfolioAnalyticsSystem.Tests\\PortfolioAnalyticsSystem.Tests.csproj|solutionrelative:portfolioanalyticssystem.tests\\analyticstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D49AA3-1703-4CF4-834D-53A1FA7DF773}|PortfolioAnalyticsSystem.Tests\\PortfolioAnalyticsSystem.Tests.csproj|c:\\users\\erica\\onedrive\\\u00E1rea de trabalho\\teste tecnico\\teste-tecnico-portfolio-analytics-system\\portfolioanalyticssystem\\portfolioanalyticssystem.tests\\portfolioanalyticssystem.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{45D49AA3-1703-4CF4-834D-53A1FA7DF773}|PortfolioAnalyticsSystem.Tests\\PortfolioAnalyticsSystem.Tests.csproj|solutionrelative:portfolioanalyticssystem.tests\\portfolioanalyticssystem.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0998CB87-66B7-423E-AC9B-2ADD6D0E4D1D}|PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem.csproj|c:\\users\\erica\\onedrive\\\u00E1rea de trabalho\\teste tecnico\\teste-tecnico-portfolio-analytics-system\\portfolioanalyticssystem\\portfolioanalyticssystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0998CB87-66B7-423E-AC9B-2ADD6D0E4D1D}|PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem.csproj|solutionrelative:portfolioanalyticssystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0998CB87-66B7-423E-AC9B-2ADD6D0E4D1D}|PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem.csproj|c:\\users\\erica\\onedrive\\\u00E1rea de trabalho\\teste tecnico\\teste-tecnico-portfolio-analytics-system\\portfolioanalyticssystem\\portfolioanalyticssystem\\portfolioanalyticssystem.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0998CB87-66B7-423E-AC9B-2ADD6D0E4D1D}|PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem.csproj|solutionrelative:portfolioanalyticssystem\\portfolioanalyticssystem.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0998CB87-66B7-423E-AC9B-2ADD6D0E4D1D}|PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem.csproj|c:\\users\\erica\\onedrive\\\u00E1rea de trabalho\\teste tecnico\\teste-tecnico-portfolio-analytics-system\\portfolioanalyticssystem\\portfolioanalyticssystem\\controllers\\analyticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0998CB87-66B7-423E-AC9B-2ADD6D0E4D1D}|PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem.csproj|solutionrelative:portfolioanalyticssystem\\controllers\\analyticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0998CB87-66B7-423E-AC9B-2ADD6D0E4D1D}|PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem.csproj|c:\\users\\erica\\onedrive\\\u00E1rea de trabalho\\teste tecnico\\teste-tecnico-portfolio-analytics-system\\portfolioanalyticssystem\\portfolioanalyticssystem\\services\\riskanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0998CB87-66B7-423E-AC9B-2ADD6D0E4D1D}|PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem.csproj|solutionrelative:portfolioanalyticssystem\\services\\riskanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0998CB87-66B7-423E-AC9B-2ADD6D0E4D1D}|PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem.csproj|c:\\users\\erica\\onedrive\\\u00E1rea de trabalho\\teste tecnico\\teste-tecnico-portfolio-analytics-system\\portfolioanalyticssystem\\portfolioanalyticssystem\\services\\rebalancingoptimizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0998CB87-66B7-423E-AC9B-2ADD6D0E4D1D}|PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem.csproj|solutionrelative:portfolioanalyticssystem\\services\\rebalancingoptimizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0998CB87-66B7-423E-AC9B-2ADD6D0E4D1D}|PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem.csproj|c:\\users\\erica\\onedrive\\\u00E1rea de trabalho\\teste tecnico\\teste-tecnico-portfolio-analytics-system\\portfolioanalyticssystem\\portfolioanalyticssystem\\services\\performancecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0998CB87-66B7-423E-AC9B-2ADD6D0E4D1D}|PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem.csproj|solutionrelative:portfolioanalyticssystem\\services\\performancecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0998CB87-66B7-423E-AC9B-2ADD6D0E4D1D}|PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem.csproj|c:\\users\\erica\\onedrive\\\u00E1rea de trabalho\\teste tecnico\\teste-tecnico-portfolio-analytics-system\\portfolioanalyticssystem\\portfolioanalyticssystem\\models\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0998CB87-66B7-423E-AC9B-2ADD6D0E4D1D}|PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem.csproj|solutionrelative:portfolioanalyticssystem\\models\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0998CB87-66B7-423E-AC9B-2ADD6D0E4D1D}|PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem.csproj|c:\\users\\erica\\onedrive\\\u00E1rea de trabalho\\teste tecnico\\teste-tecnico-portfolio-analytics-system\\portfolioanalyticssystem\\portfolioanalyticssystem\\models\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0998CB87-66B7-423E-AC9B-2ADD6D0E4D1D}|PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem.csproj|solutionrelative:portfolioanalyticssystem\\models\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0998CB87-66B7-423E-AC9B-2ADD6D0E4D1D}|PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem.csproj|c:\\users\\erica\\onedrive\\\u00E1rea de trabalho\\teste tecnico\\teste-tecnico-portfolio-analytics-system\\portfolioanalyticssystem\\portfolioanalyticssystem\\models\\dtos\\riskanalysisresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0998CB87-66B7-423E-AC9B-2ADD6D0E4D1D}|PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem.csproj|solutionrelative:portfolioanalyticssystem\\models\\dtos\\riskanalysisresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0998CB87-66B7-423E-AC9B-2ADD6D0E4D1D}|PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem.csproj|c:\\users\\erica\\onedrive\\\u00E1rea de trabalho\\teste tecnico\\teste-tecnico-portfolio-analytics-system\\portfolioanalyticssystem\\portfolioanalyticssystem\\models\\dtos\\rebalancingresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0998CB87-66B7-423E-AC9B-2ADD6D0E4D1D}|PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem.csproj|solutionrelative:portfolioanalyticssystem\\models\\dtos\\rebalancingresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0998CB87-66B7-423E-AC9B-2ADD6D0E4D1D}|PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem.csproj|c:\\users\\erica\\onedrive\\\u00E1rea de trabalho\\teste tecnico\\teste-tecnico-portfolio-analytics-system\\portfolioanalyticssystem\\portfolioanalyticssystem\\models\\dtos\\performanceresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0998CB87-66B7-423E-AC9B-2ADD6D0E4D1D}|PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem.csproj|solutionrelative:portfolioanalyticssystem\\models\\dtos\\performanceresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0998CB87-66B7-423E-AC9B-2ADD6D0E4D1D}|PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem.csproj|c:\\users\\erica\\onedrive\\\u00E1rea de trabalho\\teste tecnico\\teste-tecnico-portfolio-analytics-system\\portfolioanalyticssystem\\portfolioanalyticssystem\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0998CB87-66B7-423E-AC9B-2ADD6D0E4D1D}|PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem.csproj|solutionrelative:portfolioanalyticssystem\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnalyticsTests.cs",
+              "DocumentMoniker": "C:\\Users\\erica\\OneDrive\\\u00C1rea de Trabalho\\Teste Tecnico\\Teste-Tecnico-Portfolio-Analytics-System\\PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem.Tests\\AnalyticsTests.cs",
+              "RelativeDocumentMoniker": "PortfolioAnalyticsSystem.Tests\\AnalyticsTests.cs",
+              "ToolTip": "C:\\Users\\erica\\OneDrive\\\u00C1rea de Trabalho\\Teste Tecnico\\Teste-Tecnico-Portfolio-Analytics-System\\PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem.Tests\\AnalyticsTests.cs",
+              "RelativeToolTip": "PortfolioAnalyticsSystem.Tests\\AnalyticsTests.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T22:26:30.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\erica\\OneDrive\\\u00C1rea de Trabalho\\Teste Tecnico\\Teste-Tecnico-Portfolio-Analytics-System\\PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem\\Program.cs",
+              "RelativeDocumentMoniker": "PortfolioAnalyticsSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\erica\\OneDrive\\\u00C1rea de Trabalho\\Teste Tecnico\\Teste-Tecnico-Portfolio-Analytics-System\\PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem\\Program.cs",
+              "RelativeToolTip": "PortfolioAnalyticsSystem\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T22:26:24.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PortfolioAnalyticsSystem.http",
+              "DocumentMoniker": "C:\\Users\\erica\\OneDrive\\\u00C1rea de Trabalho\\Teste Tecnico\\Teste-Tecnico-Portfolio-Analytics-System\\PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem.http",
+              "RelativeDocumentMoniker": "PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem.http",
+              "ToolTip": "C:\\Users\\erica\\OneDrive\\\u00C1rea de Trabalho\\Teste Tecnico\\Teste-Tecnico-Portfolio-Analytics-System\\PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem.http",
+              "RelativeToolTip": "PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-12-15T22:26:23.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PortfolioAnalyticsSystem.Tests",
+              "DocumentMoniker": "C:\\Users\\erica\\OneDrive\\\u00C1rea de Trabalho\\Teste Tecnico\\Teste-Tecnico-Portfolio-Analytics-System\\PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem.Tests\\PortfolioAnalyticsSystem.Tests.csproj",
+              "RelativeDocumentMoniker": "PortfolioAnalyticsSystem.Tests\\PortfolioAnalyticsSystem.Tests.csproj",
+              "ToolTip": "C:\\Users\\erica\\OneDrive\\\u00C1rea de Trabalho\\Teste Tecnico\\Teste-Tecnico-Portfolio-Analytics-System\\PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem.Tests\\PortfolioAnalyticsSystem.Tests.csproj",
+              "RelativeToolTip": "PortfolioAnalyticsSystem.Tests\\PortfolioAnalyticsSystem.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-15T22:26:21.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RiskAnalyzer.cs",
+              "DocumentMoniker": "C:\\Users\\erica\\OneDrive\\\u00C1rea de Trabalho\\Teste Tecnico\\Teste-Tecnico-Portfolio-Analytics-System\\PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem\\Services\\RiskAnalyzer.cs",
+              "RelativeDocumentMoniker": "PortfolioAnalyticsSystem\\Services\\RiskAnalyzer.cs",
+              "ToolTip": "C:\\Users\\erica\\OneDrive\\\u00C1rea de Trabalho\\Teste Tecnico\\Teste-Tecnico-Portfolio-Analytics-System\\PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem\\Services\\RiskAnalyzer.cs",
+              "RelativeToolTip": "PortfolioAnalyticsSystem\\Services\\RiskAnalyzer.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAYwKoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T22:25:23.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RebalancingOptimizer.cs",
+              "DocumentMoniker": "C:\\Users\\erica\\OneDrive\\\u00C1rea de Trabalho\\Teste Tecnico\\Teste-Tecnico-Portfolio-Analytics-System\\PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem\\Services\\RebalancingOptimizer.cs",
+              "RelativeDocumentMoniker": "PortfolioAnalyticsSystem\\Services\\RebalancingOptimizer.cs",
+              "ToolTip": "C:\\Users\\erica\\OneDrive\\\u00C1rea de Trabalho\\Teste Tecnico\\Teste-Tecnico-Portfolio-Analytics-System\\PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem\\Services\\RebalancingOptimizer.cs",
+              "RelativeToolTip": "PortfolioAnalyticsSystem\\Services\\RebalancingOptimizer.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T22:25:17.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Portfolio.cs",
+              "DocumentMoniker": "C:\\Users\\erica\\OneDrive\\\u00C1rea de Trabalho\\Teste Tecnico\\Teste-Tecnico-Portfolio-Analytics-System\\PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem\\Models\\Portfolio.cs",
+              "RelativeDocumentMoniker": "PortfolioAnalyticsSystem\\Models\\Portfolio.cs",
+              "ToolTip": "C:\\Users\\erica\\OneDrive\\\u00C1rea de Trabalho\\Teste Tecnico\\Teste-Tecnico-Portfolio-Analytics-System\\PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem\\Models\\Portfolio.cs",
+              "RelativeToolTip": "PortfolioAnalyticsSystem\\Models\\Portfolio.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAywAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T22:25:00.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnalyticsController.cs",
+              "DocumentMoniker": "C:\\Users\\erica\\OneDrive\\\u00C1rea de Trabalho\\Teste Tecnico\\Teste-Tecnico-Portfolio-Analytics-System\\PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem\\Controllers\\AnalyticsController.cs",
+              "RelativeDocumentMoniker": "PortfolioAnalyticsSystem\\Controllers\\AnalyticsController.cs",
+              "ToolTip": "C:\\Users\\erica\\OneDrive\\\u00C1rea de Trabalho\\Teste Tecnico\\Teste-Tecnico-Portfolio-Analytics-System\\PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem\\Controllers\\AnalyticsController.cs",
+              "RelativeToolTip": "PortfolioAnalyticsSystem\\Controllers\\AnalyticsController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T22:13:11.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Asset.cs",
+              "DocumentMoniker": "C:\\Users\\erica\\OneDrive\\\u00C1rea de Trabalho\\Teste Tecnico\\Teste-Tecnico-Portfolio-Analytics-System\\PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem\\Models\\Asset.cs",
+              "RelativeDocumentMoniker": "PortfolioAnalyticsSystem\\Models\\Asset.cs",
+              "ToolTip": "C:\\Users\\erica\\OneDrive\\\u00C1rea de Trabalho\\Teste Tecnico\\Teste-Tecnico-Portfolio-Analytics-System\\PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem\\Models\\Asset.cs",
+              "RelativeToolTip": "PortfolioAnalyticsSystem\\Models\\Asset.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T22:24:55.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RiskAnalysisResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\erica\\OneDrive\\\u00C1rea de Trabalho\\Teste Tecnico\\Teste-Tecnico-Portfolio-Analytics-System\\PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem\\Models\\DTOs\\RiskAnalysisResponseDto.cs",
+              "RelativeDocumentMoniker": "PortfolioAnalyticsSystem\\Models\\DTOs\\RiskAnalysisResponseDto.cs",
+              "ToolTip": "C:\\Users\\erica\\OneDrive\\\u00C1rea de Trabalho\\Teste Tecnico\\Teste-Tecnico-Portfolio-Analytics-System\\PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem\\Models\\DTOs\\RiskAnalysisResponseDto.cs",
+              "RelativeToolTip": "PortfolioAnalyticsSystem\\Models\\DTOs\\RiskAnalysisResponseDto.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T22:24:43.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PerformanceCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\erica\\OneDrive\\\u00C1rea de Trabalho\\Teste Tecnico\\Teste-Tecnico-Portfolio-Analytics-System\\PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem\\Services\\PerformanceCalculator.cs",
+              "RelativeDocumentMoniker": "PortfolioAnalyticsSystem\\Services\\PerformanceCalculator.cs",
+              "ToolTip": "C:\\Users\\erica\\OneDrive\\\u00C1rea de Trabalho\\Teste Tecnico\\Teste-Tecnico-Portfolio-Analytics-System\\PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem\\Services\\PerformanceCalculator.cs",
+              "RelativeToolTip": "PortfolioAnalyticsSystem\\Services\\PerformanceCalculator.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T22:18:29.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RebalancingResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\erica\\OneDrive\\\u00C1rea de Trabalho\\Teste Tecnico\\Teste-Tecnico-Portfolio-Analytics-System\\PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem\\Models\\DTOs\\RebalancingResponseDto.cs",
+              "RelativeDocumentMoniker": "PortfolioAnalyticsSystem\\Models\\DTOs\\RebalancingResponseDto.cs",
+              "ToolTip": "C:\\Users\\erica\\OneDrive\\\u00C1rea de Trabalho\\Teste Tecnico\\Teste-Tecnico-Portfolio-Analytics-System\\PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem\\Models\\DTOs\\RebalancingResponseDto.cs",
+              "RelativeToolTip": "PortfolioAnalyticsSystem\\Models\\DTOs\\RebalancingResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T22:24:39.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PerformanceResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\erica\\OneDrive\\\u00C1rea de Trabalho\\Teste Tecnico\\Teste-Tecnico-Portfolio-Analytics-System\\PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem\\Models\\DTOs\\PerformanceResponseDto.cs",
+              "RelativeDocumentMoniker": "PortfolioAnalyticsSystem\\Models\\DTOs\\PerformanceResponseDto.cs",
+              "ToolTip": "C:\\Users\\erica\\OneDrive\\\u00C1rea de Trabalho\\Teste Tecnico\\Teste-Tecnico-Portfolio-Analytics-System\\PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem\\Models\\DTOs\\PerformanceResponseDto.cs",
+              "RelativeToolTip": "PortfolioAnalyticsSystem\\Models\\DTOs\\PerformanceResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T22:14:57.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\erica\\OneDrive\\\u00C1rea de Trabalho\\Teste Tecnico\\Teste-Tecnico-Portfolio-Analytics-System\\PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "PortfolioAnalyticsSystem\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\erica\\OneDrive\\\u00C1rea de Trabalho\\Teste Tecnico\\Teste-Tecnico-Portfolio-Analytics-System\\PortfolioAnalyticsSystem\\PortfolioAnalyticsSystem\\Data\\DataContext.cs",
+              "RelativeToolTip": "PortfolioAnalyticsSystem\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAEQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T22:13:07.867Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
