@@ -119,37 +119,38 @@ Os testes utilizam os **3 portfólios reais** do `SeedData.json`:
 ### Rodar a API
 ```bash
 dotnet run
-
+```
 Acesse:
 
 https://localhost:{porta}/swagger
 
-Rodar os testes
-dotnet test
+### Rodar os testes
+```dotnet test
+```
+---
+### ⚠️ Fora do escopo
 
-⚠️ Fora do escopo
+- Banco de dados persistente
 
-Banco de dados persistente
+- Entity Framework
 
-Entity Framework
+- Autenticação / autorização
 
-Autenticação / autorização
+- Atualização dinâmica de preços
 
-Atualização dinâmica de preços
+- Algoritmos financeiros avançados
 
-Algoritmos financeiros avançados
+- Testes de integração
+---
+### 📌 Observações finais
 
-Testes de integração
+- O foco deste projeto foi:
 
-📌 Observações finais
+- Cumprir exatamente o escopo do teste
 
-O foco deste projeto foi:
+- Manter o código simples, legível e funcional
 
-Cumprir exatamente o escopo do teste
+- Evitar complexidade desnecessária
 
-Manter o código simples, legível e funcional
-
-Evitar complexidade desnecessária
-
-Priorizar clareza e aderência ao enunciado
+- Priorizar clareza e aderência ao enunciado
 
