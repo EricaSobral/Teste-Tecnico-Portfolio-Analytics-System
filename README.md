@@ -21,8 +21,24 @@ Implementar **3 endpoints analíticos** que processam dados financeiros de portf
 
 ---
 
-## 📁 Estrutura do projeto
+## ▶️ Como executar o projeto
 
+### Rodar a API
+```bash
+dotnet run
+```
+Acesse:
+
+https://localhost:{porta}/swagger
+
+### Rodar os testes
+```bash
+dotnet test
+```
+---
+
+## 📁 Estrutura do projeto
+```bash
 Projeto/
 ├── Controllers/ # AnalyticsController
 ├── Services/ # Lógica dos cálculos financeiros
@@ -31,7 +47,7 @@ Projeto/
 ├── Tests/ # Testes unitários
 ├── Program.cs # Configuração da aplicação
 └── README.md
-
+```
 
 ---
 
@@ -112,22 +128,6 @@ Os testes utilizam os **3 portfólios reais** do `SeedData.json`:
 - Portfólio Crescimento (`user-002`)
 - Portfólio Dividendos (`user-003`)
 
----
-
-## ▶️ Como executar o projeto
-
-### Rodar a API
-```bash
-dotnet run
-```
-Acesse:
-
-https://localhost:{porta}/swagger
-
-### Rodar os testes
-```bash
-dotnet test
-```
 ---
 ### ⚠️ Fora do escopo
 
