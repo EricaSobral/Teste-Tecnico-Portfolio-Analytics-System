@@ -125,7 +125,8 @@ Acesse:
 https://localhost:{porta}/swagger
 
 ### Rodar os testes
-```dotnet test
+```bash
+dotnet test
 ```
 ---
 ### ⚠️ Fora do escopo
